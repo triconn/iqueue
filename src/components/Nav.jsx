@@ -25,7 +25,7 @@ export default class Nav extends React.Component {
               <span className="greyText">iQueue</span>
             </button>
             <button type="button" className="btn btn-default navbar-btn">
-              <span className="greyText">Edit Text Message</span>
+              <span className="greyText">Edit Message</span>
             </button>
           </div>
         </div>
@@ -34,4 +34,3 @@ export default class Nav extends React.Component {
     );
   }
 }
-
