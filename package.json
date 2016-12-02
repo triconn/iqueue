@@ -107,7 +107,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "browser-sync": "^2.9.3",
-    "browser-sync-webpack-plugin": "^1.0.0",
+    "browser-sync-webpack-plugin": "^1.0.3",
     "code": "^3.0.0",
     "concurrently": "^2.1.0",
     "eslint": "^2.8.0",
